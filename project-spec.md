@@ -157,7 +157,7 @@ Users typically check the app weekly or after making a purchase. The receipt-sca
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/Yge35PU.png" width=600>
 
 
 ## Build Notes
