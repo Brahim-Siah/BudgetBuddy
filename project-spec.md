@@ -173,7 +173,7 @@ More updates will be added here during Milestone 2, including 2+ videos or GIFs 
 
 ## License
 
-Copyright **2025** **Brahim Siah, Kevin Hernandez, Joaquin Castillo**
+Copyright **2025** **Brahim Siah, Kevin Hernandez, Joaquin Castillo, Mark Moreno**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
