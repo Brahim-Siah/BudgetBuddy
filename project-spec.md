@@ -67,7 +67,6 @@ Users typically check the app weekly or after making a purchase. The receipt-sca
 
 ### 2. Chosen API(s)
 
-*Note: V1 does not require an API. The following is used for stretch goals.*
 
 #### **Currency Conversion API**
 
@@ -116,6 +115,10 @@ Users typically check the app weekly or after making a purchase. The receipt-sca
   - User taps on the expense entry and selects **Delete**
     - ⇒ **Expense removed from history**
     - ⇒ **Totals and charts update**
+
+- **User views any subscriptions they have**
+  - User taps on the subscription nav button
+    - ⇒ **Grid of subscriptions is displayed**
 
 ---
 
