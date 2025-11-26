@@ -171,8 +171,7 @@ During this milestone, our group discussed several app ideas and compared their 
 
 We also learned how to break an app into required and optional features, how to identify API needs, and how to think through user interaction flows before writing any code.
 
-More updates will be added here during Milestone 2, including 2+ videos or GIFs of the build process.
-
+![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/95b901eb910945fbb46934087fa8bbea-93641681b6bedf40-full-play.gif#t=0.1)
 
 ## License
 
