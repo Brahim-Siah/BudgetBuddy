@@ -36,7 +36,6 @@ The following REQUIRED files are included:
 The following EXTRA features are implemented:
 
 - [X] Added a Subscriptions Page displaying items in a grid layout
-- [X] 
 ## 🎥 Demo Video
 
 Here's a video that demos all of the app's implemented features:
