@@ -43,117 +43,55 @@ Users typically check the app weekly or after making a purchase. The receipt-sca
 
 #### **Required Features**
 
-- Users can add expenses manually  
-- Users can categorize their expenses (Food, Bills, Transport, Shopping, etc.)  
-- Users can view a list of all expenses  
-- Users can view spending summaries (total spent, categorized totals)  
-- Users can see a pie chart showing spending by category  
-- Users can edit existing expenses  
-- Users can delete expenses  
-- Users can view monthly totals  
+- [X] Users can add expenses manually
+
+- [X] Users can view all expenses in a list
+
+- [X] Users can delete expenses from the list
+
+- [X] Users can view a spending pie chart on the Dashboard
 
 #### **Stretch Features (Optional)**
-
-
-- Savings goal creation and tracking  
-- Alerts for overspending  
-- Light/Dark theme mode  
-- Currency conversion using API  
-- Multiple budgets (Monthly / Weekly / Custom)  
-- Shared budgets for roommates or couples  
-- Smart insights (AI-powered suggestions)  
-
----
+- [X] Currency conversion using API
+- [X] Dark/Light Theme Mode implemented in the app
+- [X] Subscriptions Page with grid items
 
 ### 2. Chosen API(s)
 
+Currency Conversion API — /latest
 
-#### **Currency Conversion API**
+Used to display updated currency values inside the expense form
 
-- **Endpoint:** `/latest`  
-  - **Feature:** Convert expenses from foreign currency into user’s base currency  
+Currency Conversion API — /convert
 
-- **Endpoint:** `/convert`  
-  - **Feature:** Automatically convert foreign currency amounts during expense entry  
-
----
+Converts foreign currency amounts into user’s base currency
 
 ### 3. User Interaction
+Required Features
 
+User adds a new expense
 
-#### Required Features
+⇒ User taps “+ Add Expense” and fills form
 
-- **User adds a new expense**
-  - User taps the **“+ Add Expense”** button
-    - ⇒ **Expense entry form opens**
-  - User enters an amount, selects a category, and adds an optional note
-    - ⇒ **Expense is saved and displayed in the expense list**
-  - User taps **Save**
-    - ⇒ **Monthly total and charts update automatically**
+⇒ Expense is saved and appears in the list
 
----
+User views Dashboard summary
 
-- **User views monthly spending summary**
-  - User navigates to the **Dashboard** tab
-    - ⇒ **Total monthly spending is displayed**
-  - User views pie chart showing spending breakdown by category
-    - ⇒ **Visual representation of budget is shown**
-  - User views bar chart of spending over time
-    - ⇒ **Weekly or monthly trends are displayed**
+⇒ Dashboard shows total spending and pie chart visualization
 
----
+User deletes an expense
 
-- **User edits an existing expense**
-  - User taps an expense entry in the list
-    - ⇒ **Expense details open for editing**
-  - User updates amount/category/note
-    - ⇒ **Updated expense saved and reflected across charts**
+⇒ Expense is removed and list updates immediately
 
----
+Stretch Features
 
-- **User deletes an expense**
-  - User taps on the expense entry and selects **Delete**
-    - ⇒ **Expense removed from history**
-    - ⇒ **Totals and charts update**
+User switches theme
 
-- **User views any subscriptions they have**
-  - User taps on the subscription nav button
-    - ⇒ **Grid of subscriptions is displayed**
+⇒ App UI updates between Dark and Light modes
 
----
+User views subscriptions
 
-#### Stretch (Optional) User Interactions
-
-  - User takes a picture of the receipt
-    - ⇒ **OCR extracts the amount**
-  - User confirms category
-    - ⇒ **Expense is added automatically**
-
----
-
-- **User sets savings goals**
-  - User opens the **Savings** tab
-    - ⇒ **List of goals is shown**
-  - User taps **Create Goal**
-    - ⇒ **Goal creation form appears**
-  - User enters a target amount and deadline
-    - ⇒ **Goal is saved and progress bar appears**
-
----
-
-- **User receives spending alerts**
-  - User exceeds a category limit
-    - ⇒ **Push notification warns of overspending**
-  - User approaches a savings goal
-    - ⇒ **Reminder notification appears**
-
----
-
-- **User converts foreign currency (API Feature)**
-  - User selects a currency different from their default during expense entry
-    - ⇒ **App calls API endpoint**
-  - Converted value appears automatically
-    - ⇒ **Expense saved in user’s default currency**
+⇒ Grid of subscription tiles is displayed
 
 
 
