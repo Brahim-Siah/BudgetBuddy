@@ -45,6 +45,8 @@ Here's a video that demos all of the app's implemented features:
 ![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/2ae56da78d734e4fb1fbbfec583e606b-9cb80295d6fe8a10-full-play.gif#t=0.1)
 
 <a href="https://youtu.be/kxZomqa_GIU">Video Link</a>
+<br>
+<a href="https://www.youtube.com/watch?v=ZrFBS1aHMmM">Demo Day Video Update</a>
 
 VIDEO created with **Filmora and builtin screen recorder from Windows 11**
 
