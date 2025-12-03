@@ -113,7 +113,7 @@ We also learned how to break an app into required and optional features, how to 
 ![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/2ae56da78d734e4fb1fbbfec583e606b-9cb80295d6fe8a10-full-play.gif#t=0.1)
 ![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/477c8f735f4a4424a97c3971608d15bf-8af46fe5b789d4fc-full-play.gif#t=0.1)
 [🎥 Watch the Demo on Loom](https://www.loom.com/share/59f65aee90c745e2ab5f158a69cbda83)
- 
+ <a href="https://www.youtube.com/watch?v=ZrFBS1aHMmM">Demo Day Video Update</a>
  
 ## License
 
