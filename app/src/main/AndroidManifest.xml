@@ -9,6 +9,7 @@
         android:theme="@style/Theme.BudgetBuddy">
 
         <activity android:name=".ui.AddEditExpenseActivity"/>
+        <activity android:name=".ui.AddEditSubscriptionActivity"/>
 
         <activity
             android:name=".ui.MainActivity"

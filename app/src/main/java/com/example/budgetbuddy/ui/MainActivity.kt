@@ -3,6 +3,7 @@ package com.example.budgetbuddy.ui
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.commit
+import androidx.fragment.app.replace
 import com.example.budgetbuddy.R
 import com.example.budgetbuddy.databinding.ActivityMainBinding
 
@@ -33,6 +34,12 @@ class MainActivity : AppCompatActivity() {
                         replace(R.id.fragmentContainer, ExpensesFragment())
                     }
                 }
+                R.id.nav_subscriptions -> {
+                    supportFragmentManager.commit {
+                        replace(R.id.fragmentContainer, SubscriptionsFragment())
+                    }
+                }
+
             }
             true
         }

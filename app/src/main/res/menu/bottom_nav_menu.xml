@@ -10,5 +10,8 @@
         android:id="@+id/nav_expenses"
         android:title="Expenses"
         android:icon="@android:drawable/ic_menu_agenda" />
-
+    <item
+        android:id="@+id/nav_subscriptions"
+        android:title="Subscriptions"
+        android:icon="@android:drawable/ic_menu_slideshow" />
 </menu>
