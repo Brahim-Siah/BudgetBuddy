@@ -171,9 +171,11 @@ During this milestone, our group discussed several app ideas and compared their 
 
 We also learned how to break an app into required and optional features, how to identify API needs, and how to think through user interaction flows before writing any code.
 
-More updates will be added here during Milestone 2, including 2+ videos or GIFs of the build process.
-
-
+![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/95b901eb910945fbb46934087fa8bbea-93641681b6bedf40-full-play.gif#t=0.1)
+![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/2ae56da78d734e4fb1fbbfec583e606b-9cb80295d6fe8a10-full-play.gif#t=0.1)
+![Video Thumbnail](https://cdn.loom.com/sessions/thumbnails/477c8f735f4a4424a97c3971608d15bf-8af46fe5b789d4fc-full-play.gif#t=0.1)
+ 
+ 
 ## License
 
 Copyright **2025** **Brahim Siah, Kevin Hernandez, Joaquin Castillo, Mark Moreno**
